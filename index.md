@@ -42,4 +42,4 @@ app's internal storage and are deleted when the app is uninstalled. They are nev
 this policy will be updated before that version ships and consent will be requested where
 required.
 
-**Contact:** [fill in the developer's contact email before publishing]
+**Contact:** germandosreis@gmail.com
